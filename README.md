@@ -1,3 +1,5 @@
 # hello-world
-testing
-Just getting started here. Nothing of interest
+Testing
+Just getting started here. Nothing of interest.
+
+More of a consumer than a producer at the moment.
